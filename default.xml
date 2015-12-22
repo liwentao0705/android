@@ -29,7 +29,7 @@
            sync-j="4" />
 
 <!-- BEGIN SUDAMOD -->
-  <project path="build" name="liwentao0705/android-build.git" remote="suda" groups="pdk" revision="sm-2.0" >
+  <project path="build" name="liwentao0705/android-build" remote="suda" groups="pdk" revision="sm-2.0" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
